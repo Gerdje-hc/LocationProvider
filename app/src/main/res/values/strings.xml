@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationProvider</string>
+    <string name="google_maps_key">AIzaSyDlrUzPGOA4wV8h44hAYdof0babLO1VDqM</string>
+</resources>
